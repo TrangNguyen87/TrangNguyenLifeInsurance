@@ -1,1 +1,3 @@
 # BHNT
+BHNT là viết tắt của cụm từ Bảo hiểm nhân thọ. Bảo hiểm nhân thọ là hợp đồng giữa chủ hợp đồng bảo hiểm và công ty BHNT, trong đó công ty bảo hiểm cam kết sẽ trả cho người được bảo hiểm (NĐBH) một khoản tiền được chỉ định trước theo đúng cam kết trên hợp đồng, hoặc sẽ trả cho người thụ hưởng (được chỉ định trước) một khoản tiền khi NĐBH ra đi và không thể tiếp tục đồng hành.
+Chuyên viên tài chính sẽ giúp hoạch định tài chính cá nhân giúp khách hàng để dành khoản tiền của mình từ thu nhập, chứ không cần phải bán bất kỳ tài sản gì khi chúng ta đang sở hữu mà vẫn đảm bảo các dự định cho tương lai được diễn ra theo đúng kế hoạch.
